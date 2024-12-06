@@ -24,6 +24,6 @@ public class DropdownTest {
 
         WebElement lastNameField = driver.findElement(By.id("lastName"));
         lastNameField.sendKeys("John");
-
+//////
     }
 }
